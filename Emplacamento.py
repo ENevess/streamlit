@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 from PIL import Image
 
+
 #Configuração do tamanho da tela
 st.set_page_config(layout="wide")
 
