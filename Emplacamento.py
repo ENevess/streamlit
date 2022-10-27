@@ -13,7 +13,7 @@ file = "Saida_Emplacamentos.xlsx"
 
 
 #Add Título e logo 
-st.image('Logo DAF - HiRes.png', width= 128)
+st.image('Logo DAF - HiRes.png', width= 64)
 st.title("DAF - Histórico")
 
 
